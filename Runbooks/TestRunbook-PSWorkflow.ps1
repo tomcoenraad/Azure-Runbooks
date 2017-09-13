@@ -1,7 +1,7 @@
 workflow TestRunbook-PSWorkflow
 {
 # Set parameters
-Param(
+ Param(
   [string]$VMName,
   [string]$ResourceGroupName
  ) 
